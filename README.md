@@ -8,7 +8,7 @@ Topic: Creating a negative quantity measurement tumbler
 Responsibilities:
 
  -Weighing with an Arduino (with load cell), preprocessing and sending data after weighing.
- -Data processing and main function using Python
+ -Data processing and main function using Python.
  -Measurement of negative quantity and notification, etc.
  -For more details, please check the PPT file in the link. (Video is attached to the PPT file)
 
