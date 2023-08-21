@@ -1,3 +1,5 @@
+#블라인드 처리를 완료했으나, 해당 링크 접속 시 개인정보가 포함되어 있으므로 주의바랍니다.
+
 #Open source project <!--of the Department of Information Security--> in the second half of 2020
 
 - This project was done in gitlab.
